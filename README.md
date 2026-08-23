@@ -17,7 +17,7 @@
 
 ---
 
-## ⚡ About
+## About
 
 I'm a **Full Stack Developer** — I take messy, unclear requirements and turn them into shipped, maintainable products across **WordPress, Shopify, Laravel, and React**.
 
@@ -38,7 +38,7 @@ const hasnain = {
 
 ---
 
-## 🚀 Live Products
+## Live Products
 
 > *Production systems I've shipped or contributed to.*
 
@@ -53,21 +53,21 @@ const hasnain = {
 
 </td><td width="50%" valign="top">
 
-### 🛒 Envo Mart
-**UAE Electronics Shopify Store** — custom Shopify storefront for EnvoMart FZE with product catalog, AED checkout, conversion-focused UX, Tamara + Stripe payments, and catalog automation at scale.
+### 🛒 [Envo Mart](https://envomartfze.com)
+**UAE Electronics Shopify Store** — buy Samsung, iPhone, Xiaomi phones, MacBooks, gaming gear, and smart home devices online in the UAE. Custom Shopify storefront with AED checkout, free shipping, Tamara + card payments, and conversion-focused product catalog.
 
-`Shopify` · `Liquid` · `Tamara` · `Stripe` · `Product Filtering`
+`Shopify` · `Liquid` · `Tamara` · `Stripe` · `E-commerce`
 
-🔒 Client-owned · private
+🔗 **[envomartfze.com →](https://envomartfze.com)
 
 </td></tr><tr><td width="50%" valign="top">
 
-### ⭐ Turbo Reviews
-**Editorial Affiliate Platform** — Laravel-based review and affiliate system with admin dashboard, CRUD, role-based access, and publishing tools for editors to run operations end to end.
+### ⭐ [Turbo Reviews](https://turbo-reviews.net)
+**Editorial Style Guides & Brand Stories** — lifestyle editorial platform with fashion, beauty, tech, and travel reviews, featured brand deals, and shopping inspiration across partner retailers.
 
-`Laravel` · `PHP` · `MySQL` · `Admin Dashboard` · `RBAC`
+`Laravel` · `PHP` · `MySQL` · `Editorial` · `Affiliate`
 
-🔒 Client-owned · private
+🔗 **[turbo-reviews.net →](https://turbo-reviews.net)
 
 </td><td width="50%" valign="top">
 
@@ -80,12 +80,12 @@ const hasnain = {
 
 </td></tr><tr><td width="50%" valign="top">
 
-### 🎟️ Review Decode
-**Coupon Verification Platform** — coupon and verification workflows built for affiliate / deals publishing pipelines.
+### 🎟️ [Review Decode](https://reviewdecode.com)
+**Coupon Verification Platform** — verified promo codes, deals, and store reviews across 40+ retailers. Automation, editor review, and real checkout results before codes go live — with live verification feed and trust scores.
 
-`Laravel` · `React` · `WordPress` · `Tracking`
+`Laravel` · `React` · `WordPress` · `Verification` · `Affiliate`
 
-🔒 Client-owned · private
+🔗 **[reviewdecode.com →](https://reviewdecode.com)
 
 </td><td width="50%" valign="top">
 
@@ -102,7 +102,7 @@ const hasnain = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -127,7 +127,7 @@ const hasnain = {
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -137,7 +137,7 @@ const hasnain = {
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -151,17 +151,17 @@ const hasnain = {
 
 ---
 
-## 🎯 Currently
+## Currently
 
-- 🚀 Shipping full-stack work at **[Slash Brain](https://slashbrain.com)** — Laravel, React, Shopify, WordPress
-- 🛒 Building **Shopify themes** and payment flows (Stripe · Tamara)
-- 📰 Backend / performance work on **high-traffic media** platforms
-- 🎓 Studying **B.S. Computer Science** at GCUF (5th semester)
-- 💬 Open to **freelance · internships · interesting product work**
+- Shipping full-stack work at **[Slash Brain](https://slashbrain.com)** — Laravel, React, Shopify, WordPress
+- Building **Shopify themes** and payment flows (Stripe · Tamara)
+- Backend / performance work on **high-traffic media** platforms
+- Studying **B.S. Computer Science** at GCUF (5th semester)
+- Open to **freelance · internships · interesting product work**
 
 ---
 
-## 🤝 Let's Build Something
+## Let's Build Something
 
 <div align="center">
 
