@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+take+messy+requirements+and+ship+working+products.;WordPress+%C2%B7+Shopify+%C2%B7+Laravel+%C2%B7+React+%C2%B7+Node.js;E-commerce+%C2%B7+media+sites+%C2%B7+donations+%C2%B7+APIs;Based+in+Lahore,+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Shipping+is+the+only+metric+that+matters." />
 
-[![Website](https://img.shields.io/badge/Website-hasnainnasir.xo.je-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://hasnainnasir.xo.je/)
+[![Website](https://img.shields.io/badge/Website-hasnainnasir.site.je-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://hasnainnasir.site.je/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-nasir-/)
 [![Email](https://img.shields.io/badge/hasnainnasir.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnainnasir.dev@gmail.com)
 
@@ -165,7 +165,7 @@ const hasnain = {
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-hasnainnasir.xo.je-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://hasnainnasir.xo.je/)
+[![Website](https://img.shields.io/badge/Website-hasnainnasir.site.je-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://hasnainnasir.site.je/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-nasir-/)
 [![Email](https://img.shields.io/badge/hasnainnasir.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnainnasir.dev@gmail.com)
 
