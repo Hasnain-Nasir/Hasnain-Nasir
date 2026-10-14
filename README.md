@@ -44,57 +44,57 @@ const hasnain = {
 
 <table><tr><td width="50%" valign="top">
 
-### 🇨🇦 [BRIDGE Impact](https://bridgeimpact.ai)
+### [BRIDGE Impact](https://bridgeimpact.ai)
 **Canadian Reconciliation Donation Platform** — WordPress features connecting funders with Indigenous youth-led projects. GiveWP Pro + Stripe recurring donations, RankMath SEO, Complianz privacy, across **39+ funded projects**.
 
 `WordPress` · `GiveWP Pro` · `Stripe` · `RankMath` · `SiteGround`
 
-🔗 **[bridgeimpact.ai →](https://bridgeimpact.ai)**
+**[bridgeimpact.ai →](https://bridgeimpact.ai)**
 
 </td><td width="50%" valign="top">
 
-### 🛒 [Envo Mart](https://envomartfze.com)
+### [Envo Mart](https://envomartfze.com)
 **UAE Electronics Shopify Store** — buy Samsung, iPhone, Xiaomi phones, MacBooks, gaming gear, and smart home devices online in the UAE. Custom Shopify storefront with AED checkout, free shipping, Tamara + card payments, and conversion-focused product catalog.
 
 `Shopify` · `Liquid` · `Tamara` · `Stripe` · `E-commerce`
 
-🔗 **[envomartfze.com →](https://envomartfze.com)
+**[envomartfze.com →](https://envomartfze.com)
 
 </td></tr><tr><td width="50%" valign="top">
 
-### ⭐ [Turbo Reviews](https://turbo-reviews.net)
+### [Turbo Reviews](https://turbo-reviews.net)
 **Editorial Style Guides & Brand Stories** — lifestyle editorial platform with fashion, beauty, tech, and travel reviews, featured brand deals, and shopping inspiration across partner retailers.
 
 `Laravel` · `PHP` · `MySQL` · `Editorial` · `Affiliate`
 
-🔗 **[turbo-reviews.net →](https://turbo-reviews.net)
+**[turbo-reviews.net →](https://turbo-reviews.net)
 
 </td><td width="50%" valign="top">
 
-### 🎵 [American Songwriter](https://americansongwriter.com)
+### [American Songwriter](https://americansongwriter.com)
 **Large-Scale Music Media Platform** — backend work on a high-traffic WordPress VIP publication serving millions of readers. Custom plugins, DB/query optimizations, CDN, and performance under heavy load.
 
 `WordPress VIP` · `PHP` · `Custom Plugins` · `CDN` · `Performance`
 
-🔗 **[americansongwriter.com →](https://americansongwriter.com)**
+**[americansongwriter.com →](https://americansongwriter.com)**
 
 </td></tr><tr><td width="50%" valign="top">
 
-### 🎟️ [Review Decode](https://reviewdecode.com)
+### [Review Decode](https://reviewdecode.com)
 **Coupon Verification Platform** — verified promo codes, deals, and store reviews across 40+ retailers. Automation, editor review, and real checkout results before codes go live — with live verification feed and trust scores.
 
 `Laravel` · `React` · `WordPress` · `Verification` · `Affiliate`
 
-🔗 **[reviewdecode.com →](https://reviewdecode.com)
+**[reviewdecode.com →](https://reviewdecode.com)
 
 </td><td width="50%" valign="top">
 
-### 🚀 [Slash Brain](https://slashbrain.com)
+### [Slash Brain](https://slashbrain.com)
 **Agency website** — full-stack development agency site for Slash Brain. Web apps, APIs, e-commerce, AI agents — the shopfront for the team I ship with.
 
 `WordPress` · `Laravel` · `React` · `UI/UX`
 
-🔗 **[slashbrain.com →](https://slashbrain.com)**
+**[slashbrain.com →](https://slashbrain.com)**
 
 </td></tr></table>
 
@@ -122,16 +122,6 @@ const hasnain = {
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![SiteGround](https://img.shields.io/badge/SiteGround-00C853?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnain-Nasir&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FF6B6B&area=true&area_color=161b22" width="100%" />
 
 </div>
 
